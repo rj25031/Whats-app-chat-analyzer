@@ -3,7 +3,6 @@ matplotlib
 seaborn
 streamlit
 wordcloud
-zipfile
 collections
 numpy
 pandas
